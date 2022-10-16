@@ -8,6 +8,8 @@ permalink: /about/
 
 ### 강화학습 공부하기
 
+- git push 가 되는지 확인중
+
 ## Theme Monos
 
 > Simple and lightweight theme for Jekyll
