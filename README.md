@@ -6,6 +6,8 @@ permalink: /about/
 
 ## My Space
 
+### 강화학습 공부하기
+
 ## Theme Monos
 
 > Simple and lightweight theme for Jekyll
