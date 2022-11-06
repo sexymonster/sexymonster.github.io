@@ -10,7 +10,7 @@
       <li class="post-list-item">
         <!-- {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%} -->
         {%- assign date_format = "%Y/%m/%d" -%}
-        <span class="post-date">{{ post.date | date: date_format }}</span>
+        <!-- <span class="post-date">{{ post.date | date: date_format }}</span> -->
       	<a class="post-link" href="{{ post.url | relative_url }}">
     	    {{ post.title | escape }}
 		</a>
