@@ -186,10 +186,10 @@ data
 ### 파라미터
 
 window_size = 5\
-episodes = 100\
+episodes = 100
 
 batch_size = 8\
-data_samples = len(data) - 1\
+data_samples = len(data) - 1
 
 # 실행 코드
 
