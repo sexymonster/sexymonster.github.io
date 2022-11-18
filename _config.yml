@@ -55,3 +55,9 @@ tag_dir: tag/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Conversion
+markdown: kramdown
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
