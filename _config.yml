@@ -25,7 +25,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://sexymonster.github.io"
 github_username: sexymonster
+
+# Conversion
+markdown: kramdown
 highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 svg:
   optimize: true
 # Build settings
@@ -56,8 +63,3 @@ tag_dir: tag/
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Conversion
-markdown: kramdown
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
